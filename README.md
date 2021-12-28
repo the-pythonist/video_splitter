@@ -20,6 +20,17 @@ You only need the following to conveniently use the program:
 - After successfull install of Python, install MoviePy (https://pypi.org/project/moviepy/)
   - Simply fire up your command prompt (cmd.exe) and type in: pip install moviepy
 
+#### Code Usage
+Function usage is on line 68 of the code.
+
+Usage:
+
+```video_split(video_name, split_at, out_name)```
+
+Example:
+
+```video_split("nicos.mp4", 120, "Nicos")```
+
 #### The Process
 I made use of the MoviePy library available here: https://pypi.org/project/moviepy/. You can find the documentation here: https://zulko.github.io/moviepy/. 
 
