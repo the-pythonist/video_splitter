@@ -4,7 +4,6 @@ I might be wrong, but let's see what God makes happen"""
 
 from moviepy.editor import *
 
-
 def video_split(video_name, split_at, out_name):
     """ :video_name - File name of the video to be splitted.
     :split_at - Length for each splitted video created.
