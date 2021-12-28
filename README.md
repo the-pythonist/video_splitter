@@ -24,7 +24,7 @@ You only need the following to conveniently use the program:
 I made use of the MoviePy library available here: https://pypi.org/project/moviepy/. You can find the documentation here: https://zulko.github.io/moviepy/. 
 
 
-![image](https://user-images.githubusercontent.com/68852419/147521840-12179e72-d19f-4247-99d9-dd98e4d300d8.png)
+![image](https://user-images.githubusercontent.com/68852419/147593399-b73fa4cf-39fc-41da-a9e8-b00b50292f47.png)
 
 The above image is a screen shot of the 'progress report' MoviePy offers while it works on your video.
 ###### You only need to call the video_split function and put in two parameters: video_name and intended length for the splitted videos.
@@ -32,6 +32,8 @@ The above image is a screen shot of the 'progress report' MoviePy offers while i
 
 #### The Result
 ###### Und jetzt habe ich mehrere kleines Video vom Ganzen Video vom Nicos Weg (And now I have several smaller videos from the entire Nicos Weg video compilation).
+The below image is a snap shot of the resulting splitted video files.
+![image](https://user-images.githubusercontent.com/68852419/147593496-22feddc7-e71a-430c-b112-cbd02448176e.png)
 
 
 #### How this program can be made better?
