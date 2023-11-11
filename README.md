@@ -64,4 +64,3 @@ Probably a factor to was no 'ginger' (that's pidgin). Anyways, moving forward ..
 
 #### And voilà, das ist alle. viele Erfolg und mach's gut. (And there, that is all. Much success and take care :-D )
 
-If you need to contact me, here you go: gadawesome@gmail.com.
